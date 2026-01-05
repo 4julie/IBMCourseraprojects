@@ -1,0 +1,6 @@
+.ssh/
+*.pem
+*.key
+_pycashe_/
+*.pyc
+.env
